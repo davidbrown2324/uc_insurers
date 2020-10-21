@@ -4,5 +4,5 @@ The excel file CPRA #20-3063 9.23.2020.xlsx contains insurance contract details 
 
 The notebook [uc_insurance.ipynb](http://localhost:8888/notebooks/Climate%20Crisis/uc_insurers_2020/uc_insurance.ipynb) analyses this data to understand who UC are paying, how much, and for what?
 
-![The Grand Totals](https://github.com/davidbrown2324/uc_insurers/blob/main/grandtotals.png)
+![The Grand Totals](https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/grandtotals.png)
 
