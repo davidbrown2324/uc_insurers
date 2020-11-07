@@ -35,4 +35,6 @@ Our spending with each company is shown below.
 
 ![The Grand Totals](https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/grandtotals.png)
 
+## Conclusions
 
+## Proposal
