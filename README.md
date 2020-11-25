@@ -10,7 +10,7 @@ We respectfully request that UC’s Chief Financial Officer issues a Request for
 
 _Written by Eric Halgren, Edited by David Brown_
 
-Looking at the largest insurance contracts taken out by the UC Regents, or the UC's internal 'captive' insurance company FiatLux, we can see there is opporuntiy to rapidly reduce our impact on the planet simply by choosing higher scoring companies inplace of those with no intention of reducing their support for the fossil fuel industry. 
+Looking at the largest insurance contracts taken out by the UC Regents, or the UC's internal 'captive' insurance company FiatLux, we can see there is opporuntiy to rapidly reduce our impact on the planet simply by choosing higher scoring companies (currently Zurich and Allianz) inplace of those who have shown no intention of reducing their support for the fossil fuel industry (Liberty Mutual and Tokio Marine). This analysis provides clear options for the UC to demonstrate climate leadership. Now let's see some action.
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC's biggest contracts by section" width="500">
 
