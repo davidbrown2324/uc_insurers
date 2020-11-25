@@ -15,4 +15,4 @@ Looking at the largest insurance contracts taken out by the UC Regents, or the U
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC's biggest contracts by section" width="500">
 
 The excel file CPRA #20-3063 9.23.2020.xlsx contains insurance contract details obtained through a freedom of information act inquirey.
-The notebook [uc_insurance.ipynb](http://localhost:8888/notebooks/Climate%20Crisis/uc_insurers_2020/uc_insurance.ipynb) analyses this data to understand who UC are paying, how much, and for what?
+The notebook [uc_insurance.ipynb](http://localhost:8888/notebooks/Climate%20Crisis/uc_insurers_2020/uc_insurance.ipynb) analyses this data to understand who UC are paying, how much, and for what.
