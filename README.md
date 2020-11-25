@@ -8,9 +8,11 @@ Currently, the UC ignores Environment, Social and Governance (ESG principles) in
   
 We respectfully request that UC’s Chief Financial Officer issues a Request for Proposals for commercial banking and insurance services that includes a meaningful criterion of adherence to ESG principles. We note that UC is already applying these principles to its investment portfolio. Three months ago the Academic Senate’s highest body, the Academic Council, unanimously requested the administration to follow ESG principles in choosing commercial banking vendors, and to date, the administration has not responded. Why not?
 
-<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC's biggest contracts by section" width="500">
-
 _Written by Eric Halgren, Edited by David Brown_
+
+Looking at the largest insurance contracts taken out by the UC Regents, or the UC's internal 'captive' insurance company FiatLux, we can see there is opporuntiy to rapidly reduce our impact on the planet simply by choosing higher scoring companies inplace of those with no intention of reducing their support for the fossil fuel industry. 
+
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC's biggest contracts by section" width="500">
 
 The excel file CPRA #20-3063 9.23.2020.xlsx contains insurance contract details obtained through a freedom of information act inquirey.
 The notebook [uc_insurance.ipynb](http://localhost:8888/notebooks/Climate%20Crisis/uc_insurers_2020/uc_insurance.ipynb) analyses this data to understand who UC are paying, how much, and for what?
