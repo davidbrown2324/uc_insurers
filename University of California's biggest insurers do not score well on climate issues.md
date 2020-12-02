@@ -40,7 +40,6 @@ From this summary we can see UC turns to insurance giant Liberty Mutual to insur
 __Figure 2. UC's top spending overall.__
 
 
-__Figure 3. US
 
 
 ## How do these companies perform on climate issues?
@@ -51,13 +50,24 @@ The metrics can be grouped into three categories.
 2. Investment
 3. Climate Leadership
 
-An insurance company that is serious about averting the catastrophic heating of our planet should not enter into a contract that will pay out if the construction of a new oil rig or coal mine goes awry. Climate concious insurers should have an internal policy that restricts them from Underwiting projects to expand the fossil fuel industry. Furthermore, continued coverage for the fossil fuel industry's exisiting assets (business as usual) is not consistent with the rate and severity of climate change.
+An insurance company that is serious about averting the catastrophic heating of our planet should not enter into a contract that will pay out if the construction of a new oil rig or coal mine goes awry. Climate concious insurers should have an internal policy that restricts them from Underwiting projects to expand the fossil fuel industry. Furthermore, continued coverage for the fossil fuel industry's exisiting assets (business as usual) is not consistent with the rate and severity of climate change. Thankfully some insurance companies have started to adopt policies that limit Underwriting of fossil fuels. In the rankings below higher scores are assigned to policies restricting a wider variety of fossil fuels (oil, coal, tar sands) and to more stringent and pervasive commitments. 
+
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Underwriting%20Ranking%20-%202020.png" alt="Insurance companies ranked by Underwriting policies" width="450">
+
+__Figure 3. Insurance companies ranked by their policies on Underwriting.__
+Data from the 2019 Rainforest Action Network Scorecard. Insurance Companies are scored based on the extent to which their policies restrict them from underwriting fossil fuels.
+
+An insurance company that is serious about averting the catastrophic heating of our planet should not invest their capital in an industry dedicated to the extraction, transport or combustion of fossil fuels. Climate concious insurers should have an internal policy that restricts them from investing in the fossil fuel industry. From the UC's perspective buying insurance from a company that continues to invest in the fossil fuel industry (business as usual) is an absurd act. That money is then funding the expansion of an industry that drives global heating and increases the frequency and severity of natural disasters that are already affecting our campuses. This year UC, Santa Cruz and UC, Irvine were evacuated due to forest fires.
+
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Investment%20Ranking%20-%202020.png" alt="Insurance companies ranked by Investment policies" width="450">
+__Figure 4. Insurance companies ranked by their policies on Investment.__
+Data from the 2019 Rainforest Action Network Scorecard. Insurance Companies are scored based on the extent to which their policies restrict them from investing in fossil fuels.
 
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Spending%20by%20Broker%20-%202020.png" alt="UC spending by insurance broker" width="250">
 
 
-__Figure 4. UC's spending by insurance broker.__
+__Figure 5. UC's spending by insurance broker.__
 Annual spending in million USD is shown in brackets.
 
 
