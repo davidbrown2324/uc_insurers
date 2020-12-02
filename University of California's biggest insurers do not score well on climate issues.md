@@ -19,22 +19,23 @@ We therefore require a large number of insurance policies from multiple provider
 We asked the UC's Risk Services Office to provide us with the details of our insurance contracts. 
 The raw data we recieved in response is available here.
 Spending can be grouped into three categories.
-1. Store-bought policies
-2. Homemade policies
+1. Homemade policies
+2. Store-bought policies
 3. Brokers
 
-For risks that are faced by most large insitutions, insurance companies provide policies that can be adapted to suit UC. I refer to these as 'store-bought'. 
-This section can be further divided into based on whether the policies cover 'construction' which has a different set of risks compared to the day to day function of the UC.
 For risks that are more specific to our insitution it is cheaper and faster to design our own policies and then ask companies to cover them. 
-These 'homemade' policies are handled by the UC's own insurance company called FiatLux.
-Finally, brokers help to handle the negotiations between clients and the insurance providers.
+These 'homemade' policies are handled by the UC's own insurance company called FiatLux. For risks that are faced by most large insitutions, insurance companies provide policies that can be adapted to suit UC. I refer to these as 'store-bought'. This section can be further divided into based on whether the policies cover 'construction' which has a different set of risks compared to the day to day function of the UC. Finally, brokers help to handle the negotiations between clients and the insurance providers.
 
-UC spending in these categories is summarized below.
+UC spending in the first two categories is summarized below.
 
-Our spending with each company is shown below.
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC top spending by section" width="500">
 
-![The Grand Totals](https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/grandtotals.png)
+__Figure 1. UC's top spending by category.__
+The five biggest insurance expenses by company are shown for 'homemade' coverage bought by FiatLux and 'store-bought' coverage bought by the Regents / UCOP directly. For policies covering construction, the three biggest expenses by company are shown. Insurance spending has been totaled by parent company. 
 
 ## Conclusions
 
 ## Proposal
+
+The UC could make a significant impact year on year by introducing ESG policies with meaningful climate criteria. Simply by moving contracts from the worst performers Liberty Mutual and Tokio Marine to better performers like Zurich, we would be removing our unbridled support for fossil fuel expansion, helping to stem the toxic combusion of fossil fuels. Our action would nudge insurance companies towards policies in line with the Paris agreement, and nudge other Universities and centers of education to consider their own insurance policies. In the coming years, the velocity and extent with which insurance companies transition away from fossil fuels and towards renewable energies will become an informative metric allowing us to reward best practices rather than simply avoiding the worst. Until then, avoiding the worst is the least we should do.
+
