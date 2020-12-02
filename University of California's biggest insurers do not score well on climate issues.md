@@ -81,8 +81,12 @@ Data from the 2019 Rainforest Action Network Scorecard.
 
 ## So how do our biggest insurers score?
 
+Looking at the positions of UC's top insurers in the Rainforest Action Networks rankings, we can see that our biggest contracts are not with the best companies.
 
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/How%20do%20UC%20insurance%20companies%20score%20v2.png" alt="UC Insurer Scores" width="450">
 
+__Figure 7. Ranking of UC Insurance Companies.__
+Data from the 2019 Rainforest Action Network Scorecard were intersected with public data on UC's insurance companies.
 
 ## Conclusions
 
