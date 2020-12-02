@@ -29,9 +29,14 @@ These 'homemade' policies are handled by the UC's own insurance company called F
 UC spending in the first two categories is summarized below.
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Biggest%20spending%20by%20section.png" alt="UC top spending by section" width="500">
-
 __Figure 1. UC's top spending by category.__
-The five biggest insurance expenses by company are shown for 'homemade' coverage bought by FiatLux and 'store-bought' coverage bought by the Regents / UCOP directly. For policies covering construction, the three biggest expenses by company are shown. Insurance spending has been totaled by parent company. 
+The five biggest insurance expenses by company are shown for 'homemade' coverage bought by FiatLux and 'store-bought' coverage bought by the Regents / UCOP directly. For policies covering construction, the three biggest expenses by company are shown. Insurance spending has been totaled by parent company.
+
+
+
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Spending%20by%20Broker%20-%202020.png" alt="UC spending by insurance broker" width="250">
+__Figure 2. UC's spending by insurance broker.__
+Annual spending in million USD is shown in brackets.
 
 ## Conclusions
 
