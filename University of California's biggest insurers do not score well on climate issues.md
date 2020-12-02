@@ -33,17 +33,31 @@ UC spending in the first two categories is summarized below.
 __Figure 1. UC's top spending by category.__
 The five biggest insurance expenses by company are shown for 'homemade' coverage bought by FiatLux and 'store-bought' coverage bought by the Regents / UCOP directly. For policies covering construction, the three biggest expenses by company are shown. Insurance spending has been totaled by parent company.
 
-From this summary we can see UC turns to insurance giant Liberty Mutual to insure construction as well as day to day coverage of the University. Through multiple contracts, Liberty end up being the UC's top insurer. Similarly, we have multiple contracts with our second most expensive insurance provider Tokio Marine or its subsiduaries (e.g. Philadelphia).
+From this summary we can see UC turns to insurance giant Liberty Mutual to insure construction as well as day to day coverage of the University. Through multiple contracts, Liberty end up being the UC's top insurer (Figure 2). Similarly, we have multiple contracts with our second most expensive insurance provider Tokio Marine or its subsiduaries (e.g. Philadelphia).
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Top%205%20UC%20insurers%20-%202020.png" alt="Top 5 UC insurers" width="450">
 
 __Figure 2. UC's top spending overall.__
 
 
+__Figure 3. US
+
+
+## How do these companies perform on climate issues?
+
+Every year, [Rainforest Action Network](https://www.ran.org/) survey insurance companies, scoring their practices against one another on panel of climate relevant metrics.
+The metrics can be grouped into three categories.
+1. Underwriting
+2. Investment
+3. Climate Leadership
+
+An insurance company that is serious about averting the catastrophic heating of our planet should not enter into a contract that will pay out if the construction of a new oil rig or coal mine goes awry. Climate concious insurers should have an internal policy that restricts them from Underwiting projects to expand the fossil fuel industry. Furthermore, continued coverage for the fossil fuel industry's exisiting assets (business as usual) is not consistent with the rate and severity of climate change.
+
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Spending%20by%20Broker%20-%202020.png" alt="UC spending by insurance broker" width="250">
 
-__Figure 3. UC's spending by insurance broker.__
+
+__Figure 4. UC's spending by insurance broker.__
 Annual spending in million USD is shown in brackets.
 
 
