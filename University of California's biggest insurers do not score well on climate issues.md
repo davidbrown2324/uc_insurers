@@ -33,14 +33,27 @@ UC spending in the first two categories is summarized below.
 __Figure 1. UC's top spending by category.__
 The five biggest insurance expenses by company are shown for 'homemade' coverage bought by FiatLux and 'store-bought' coverage bought by the Regents / UCOP directly. For policies covering construction, the three biggest expenses by company are shown. Insurance spending has been totaled by parent company.
 
+From this summary we can see UC turns to insurance giant Liberty Mutual to insure construction as well as day to day coverage of the University. Through multiple contracts, Liberty end up being the UC's top insurer. Similarly, we have multiple contracts with our second most expensive insurance provider Tokio Marine or its subsiduaries (e.g. Philadelphia).
+
+<img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Top%205%20UC%20insurers%20-%202020.png" alt="Top 5 UC insurers" width="450">
+
+__Figure 2. UC's top spending overall.__
+
 
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Spending%20by%20Broker%20-%202020.png" alt="UC spending by insurance broker" width="250">
 
-__Figure 2. UC's spending by insurance broker.__
+__Figure 3. UC's spending by insurance broker.__
 Annual spending in million USD is shown in brackets.
 
+
+
 ## Conclusions
+
+1. UCs largest insurance deals are with two of the worst performers in terms of climate.
+2. These deals are subdivided
+3. There are insurance companies with whom we have contracts of a similar size
+4. There are insurance companies of comparable size with better climates and ESG records than our top insurers.
 
 ## Proposal
 
