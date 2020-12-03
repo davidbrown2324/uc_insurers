@@ -90,7 +90,7 @@ Data from the 2019 Rainforest Action Network Scorecard were intersected with pub
 
 ## Conclusions
 
-1. UCs largest insurance deals are with two of the worst performers in terms of climate (Figure 7).
+1. UC's largest insurance deals are with two of the worst performers in terms of climate (Figure 7).
 2. These large payments are already subdivided into multiple separate contracts (Figure 1).
 3. UC already has contracts with other insurance companies of a similar size (Figure 1).
 4. There are insurance companies of comparable size with better climate and ESG records than our top insurers (Figure 6).
