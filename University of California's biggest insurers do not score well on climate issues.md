@@ -65,7 +65,7 @@ From the UC's perspective buying insurance from a company that continues to inve
 __Figure 4. Insurance companies ranked by their policies on Investment.__
 Data from the 2019 Rainforest Action Network Scorecard. Insurance Companies are scored based on the extent to which their policies restrict them from investing in fossil fuels.
 
-_If we expect to inhabit a hospitible planet, everyone has a part to play in reversing climate change. Faced with a wealthy industry that has willfuly decieved the public about the threat of global warming, Insurance Companies play key role. In many cases fossil fuel companies can afford to run and even expand, all the while continuing to accelerate global heating. However, most fossil fuel companies cannot afford to cover mishaps, diasters and pandemics out of pocket, and so depend heavily on Insurance. Insurance Companies are therefore perfectly positioned to demonstrate their leadership combating climate change._
+_If we expect to inhabit a hospitible planet, everyone has a part to play in reversing climate change. Faced with a wealthy industry that has willfuly decieved the public about the threat of global warming[[1]](#1)[[2]](#2), Insurance Companies play key role. In many cases fossil fuel companies can afford to run and even expand, all the while continuing to accelerate global heating. However, most fossil fuel companies cannot afford to cover mishaps, diasters and pandemics out of pocket, and so depend heavily on Insurance. Insurance Companies are therefore perfectly positioned to demonstrate their leadership combating climate change._
 Thankfully some insurance companies have started to rise to that challenge. In the rankings below higher scores are assigned for alignment with climate science, public, time-bound climate commitments, climate concious lobbying and proactive investment in renewable energy. 
 
 <img src="https://github.com/davidbrown2324/uc_insurers/blob/main/png_figures/Climate%20Leadership%20Ranking%20-%202020.png" alt="Insurance companies ranked on Climate Leadership" width="450">
@@ -99,3 +99,11 @@ Data from the 2019 Rainforest Action Network Scorecard were intersected with pub
 
 The UC could make a significant impact year on year by introducing ESG policies with meaningful climate criteria. Simply by moving contracts from the worst performers Liberty Mutual and Tokio Marine to better performers like Zurich, we would be removing our unbridled support for fossil fuel expansion, helping to stem the toxic combusion of fossil fuels. Our action would nudge insurance companies towards policies in line with the Paris agreement, and nudge other Universities and centers of education to consider their own insurance policies. In the coming years, the velocity and extent with which insurance companies transition away from fossil fuels and towards renewable energies will become an informative metric allowing us to reward best practices rather than simply avoiding the worst. Until then, avoiding the worst is the least we should do.
 
+## References
+<a id="1">[1]</a> 
+Exxon-The-Road-Not-Taken. 
+https://insideclimatenews.org/content/Exxon-The-Road-Not-Taken
+
+<a id="2">[2]</a> 
+Exxon-The-Road-Not-Taken. 
+https://insideclimatenews.org/content/Exxon-The-Road-Not-Taken
