@@ -101,9 +101,10 @@ The UC could make a significant impact year on year by introducing ESG policies 
 
 ## References
 <a id="1">[1]</a> 
-Exxon-The-Road-Not-Taken. 
+"Exxon-The-Road-Not-Taken." 
 https://insideclimatenews.org/content/Exxon-The-Road-Not-Taken
 
 <a id="2">[2]</a> 
-Exxon-The-Road-Not-Taken. 
-https://insideclimatenews.org/content/Exxon-The-Road-Not-Taken
+Lieberman and Rust, “Big Oil Braced for Global Warming While It Fought Regulations.”
+https://graphics.latimes.com/oil-operations/
+
